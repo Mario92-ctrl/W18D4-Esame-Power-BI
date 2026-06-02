@@ -8,7 +8,8 @@ Il report è composto da dashboard interattive che consentono di analizzare l'ev
 
 L'analisi ha evidenziato una significativa crescita degli ordini e del fatturato tra il 2017 e il 2018, un elevato livello di soddisfazione dei clienti e una forte predominanza dei pagamenti tramite carta di credito rispetto agli altri metodi disponibili.
 
-[Esame Finale PBI.pdf](https://github.com/user-attachments/files/28463267/Esame.Finale.PBI.pdf)
+[Esame Finale PBI_Mario Iacopetta.pdf](https://github.com/user-attachments/files/28521924/Esame.Finale.PBI_Mario.Iacopetta.pdf)
+
 
 
 
